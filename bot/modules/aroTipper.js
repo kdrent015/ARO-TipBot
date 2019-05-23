@@ -371,10 +371,10 @@ function getValidatedAmount(amount) {
 }
 
 function txLink(txId) {
-  return 'http://arionum.info/transaction/' + txId;
+  return 'https://arionum.info/transaction/' + txId;
 }
 
 function addyLink(address) {
-  return 'http://arionum.info/account/' + address;
+  return 'https://arionum.info/account/' + address;
 }
 */
