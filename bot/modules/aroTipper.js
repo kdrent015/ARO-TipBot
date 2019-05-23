@@ -1,15 +1,3 @@
-/*
-Simply find and replace instances below with the coin and symbol you want to use!
-search and replace with case sensitivity!!
-example:
-1. Arionum   = Ethereum
-2. aro        = eth
-3. ARO        = ETH
-4. http://Explorer-Url/tx/
-5. http://Explorer-Url/address/
-*/
-
-/*
 'use strict';
 
 const bitcoin = require('bitcoin');
